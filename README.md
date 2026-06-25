@@ -1,4 +1,6 @@
 # Python Automation Scripts
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 Comprehensive IT automation toolkit featuring web scraping, file operations, API integrations, and system administration scripts.
 
