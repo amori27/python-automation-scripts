@@ -22,7 +22,7 @@ Production-ready automation library for common IT tasks including web scraping w
 ## Installation
 
 ```bash
-git clone https://github.com/AmirAsaad/python-automation-scripts.git
+git clone https://github.com/amori27/python-automation-scripts.git
 cd python-automation-scripts
 pip install -r requirements.txt
 ```
